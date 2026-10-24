@@ -1,0 +1,2 @@
+This is file 1
+Modified for Scenario 2 - file 1.
